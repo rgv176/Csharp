@@ -1,0 +1,9 @@
+C:\Users\ragav\source\repos\Assignment__3\Business_Logic_Layer\bin\Debug\Business_Logic_Layer.dll
+C:\Users\ragav\source\repos\Assignment__3\Business_Logic_Layer\bin\Debug\Business_Logic_Layer.pdb
+C:\Users\ragav\source\repos\Assignment__3\Business_Logic_Layer\bin\Debug\Data_Access_Layer.dll
+C:\Users\ragav\source\repos\Assignment__3\Business_Logic_Layer\bin\Debug\Data_Access_Layer.pdb
+C:\Users\ragav\source\repos\Assignment__3\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.csproj.AssemblyReference.cache
+C:\Users\ragav\source\repos\Assignment__3\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.csproj.CoreCompileInputs.cache
+C:\Users\ragav\source\repos\Assignment__3\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.csproj.CopyComplete
+C:\Users\ragav\source\repos\Assignment__3\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.dll
+C:\Users\ragav\source\repos\Assignment__3\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.pdb
